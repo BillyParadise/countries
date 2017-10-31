@@ -1,0 +1,111 @@
+---
+DE:
+  unofficial_names:
+  - Devonshire
+  translations:
+    en: Devonshire
+  geo:
+    latitude: 32.3027800
+    longitude: -64.7558300
+  name:
+    Devonshire Parish
+HA:
+  unofficial_names:
+  - Hamilton
+  translations:
+    en: Hamilton
+  geo:
+    latitude: 32.3027800
+    longitude: -64.7558300
+  name:
+    City of Hamilton
+HC:
+  unofficial_names:
+  - Hamilton Parish
+  translations:
+    en: Hamilton Parish
+  geo:
+    latitude: 32.3422200
+    longitude: -64.7283300
+  name:
+    Hamilton Parish
+PA:
+  unofficial_names:
+  - Paget
+  translations:
+    en: Paget
+  geo:
+    latitude: 32.2783300
+    longitude: -64.7816700
+  name:
+    Paget Parish
+PE:
+  unofficial_names:
+  - Pembroke
+  translations:
+    en: Pembroke
+  geo:
+    latitude: 32.2994400
+    longitude: -64.7927800
+  name:
+    Pembroke Parish
+SG:
+  unofficial_names:
+  - Saint George Parish
+  translations:
+    en: Saint George Parish
+  geo:
+    latitude: 32.3636100
+    longitude: -64.6794400
+  name:
+    Saint George Parish
+SC:
+  unofficial_names:
+  - Saint George
+  translations:
+    en: Saint George
+  geo:
+    latitude: 32.3841700
+    longitude: -64.6763900
+  name:
+    City of Saint George
+SA:
+  unofficial_names:
+  - Sandy's
+  translations:
+    en: Sandy's
+  geo:
+    latitude: 32.2934500
+    longitude: -64.8682800
+  name:
+    Sandy's Parish
+SM:
+  unofficial_names:
+  - Smiths
+  translations:
+    en: Smiths
+  geo:
+    latitude: 32.3152800
+    longitude: -64.7352800
+  name:
+    Smiths Parish
+SO:
+  unofficial_names:
+  - Southampton
+  translations:
+    en: Southampton
+  geo:
+    latitude: 32.2508300
+    longitude: -64.8563900
+  name:
+    Southampton Parish
+WA:
+  unofficial_names:
+  - Warwick
+  translations:
+    en: Warwick
+  geo:
+    latitude: 32.2658300
+    longitude: -64.8072200
+  name:
+    Warwick Parish
